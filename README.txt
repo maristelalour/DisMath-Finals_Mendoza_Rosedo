@@ -83,7 +83,7 @@ PROGRAM FEATURES
 
 VIDEO EXPLANATION
 -----------------
-  Link: [INSERT YOUR VIDEO LINK HERE]
+  Link: https://drive.google.com/file/d/14V3fAwX3WGjs-OYeDx-xTsRcJoIUnbBj/view?usp=drive_link
   (Upload to Google Drive, YouTube Unlisted, or OneDrive
    and paste the link above before submitting.)
 
